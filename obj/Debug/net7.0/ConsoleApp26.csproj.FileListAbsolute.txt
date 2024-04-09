@@ -1,0 +1,14 @@
+D:\Проекты\ConsoleApp26\bin\Debug\net7.0\ConsoleApp26.exe
+D:\Проекты\ConsoleApp26\bin\Debug\net7.0\ConsoleApp26.deps.json
+D:\Проекты\ConsoleApp26\bin\Debug\net7.0\ConsoleApp26.runtimeconfig.json
+D:\Проекты\ConsoleApp26\bin\Debug\net7.0\ConsoleApp26.dll
+D:\Проекты\ConsoleApp26\bin\Debug\net7.0\ConsoleApp26.pdb
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.AssemblyInfoInputs.cache
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.AssemblyInfo.cs
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.dll
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\refint\ConsoleApp26.dll
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.pdb
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ConsoleApp26.genruntimeconfig.cache
+D:\Проекты\ConsoleApp26\obj\Debug\net7.0\ref\ConsoleApp26.dll
